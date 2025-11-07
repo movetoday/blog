@@ -1,2 +1,6 @@
-# Hello GitHub Pages!
-첫 페이지 테스트입니다.
+---
+layout: home
+title: "Welcome"
+---
+
+GitHub Pages Minimal Mistakes Test Page
