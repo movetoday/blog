@@ -3,13 +3,11 @@ description: "Welcome to my blog!"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
-# 프로젝트 페이지 필수
-url: "https://movetoday.github.io"
-baseurl: "/blog"
+url: "https://movetoday.github.io"   # ← 꼭 이대로
+baseurl: "/blog"                      # ← 꼭 이대로 (뒤에 슬래시 X)
 
 locale: ko-KR
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
