@@ -1,0 +1,8 @@
+# navigation bar(상단 메뉴 바)
+main:
+  - title: "Home"
+    url: /blog/
+  - title: "About"
+    url: /blog/about/
+  - title: "Posts"
+    url: /blog/posts/
