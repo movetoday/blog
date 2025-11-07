@@ -1,0 +1,5 @@
+title: "My Blog"
+description: "Welcome to my GitHub Pages blog!"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-include-cache
