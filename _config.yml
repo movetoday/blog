@@ -1,6 +1,10 @@
 title: "My Blog"
-description: "Welcome to my GitHub Pages blog!"
+description: "Welcome to movetoday's blog!"
 remote_theme: mmistakes/minimal-mistakes
+
+# IMPORTANT !!!
+baseurl: "/blog"
+url: "https://movetoday.github.io"
 
 plugins:
   - jekyll-remote-theme
