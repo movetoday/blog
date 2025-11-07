@@ -1,7 +1,7 @@
 # navigation bar(상단 메뉴 바)
 main:
   - title: "Home"
-    url: /blog/
+    url: /
   - title: "About"
     url: /blog/about/
   - title: "Posts"
