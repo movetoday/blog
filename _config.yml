@@ -1,13 +1,15 @@
 title: "My Blog"
 description: "Welcome to my blog!"
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
 
-# IMPORTANT !!!
-baseurl: "/blog"
+# 프로젝트 페이지 필수
 url: "https://movetoday.github.io"
+baseurl: "/blog"
+
+locale: ko-KR
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
 
