@@ -10,11 +10,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# Navigation menu(상단메뉴)
-navigation:
-  - title: "Home"
-    url: /blog/
-  - title: "About"
-    url: /blog/about/
-  - title: "Posts"
-    url: /blog/posts/
+
