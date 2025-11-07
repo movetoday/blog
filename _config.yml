@@ -12,5 +12,3 @@ locale: ko-KR
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-
