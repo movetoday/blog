@@ -6,3 +6,6 @@ main:
     url: /blog/about/
   - title: "Posts"
     url: /blog/posts/
+  - title: "category"
+    url: /blog/category/
+
