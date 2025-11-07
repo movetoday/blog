@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /blog/about/
+    url: /about/
   - title: "Posts"
-    url: /blog/posts/
+    url: /posts/
   - title: "category"
-    url: /blog/category/
+    url: /category/
 
